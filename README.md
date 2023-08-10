@@ -1,2 +1,2 @@
-# DashboardswebApp
+# Dashboards
 web app
